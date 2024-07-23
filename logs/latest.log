@@ -1,0 +1,120 @@
+[14:47:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:47:36] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[14:47:36] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[14:47:36] [ServerMain/INFO]: No existing world data, creating new world
+[14:47:40] [ServerMain/INFO]: Loaded 1290 recipes
+[14:47:40] [ServerMain/INFO]: Loaded 1399 advancements
+[14:47:40] [Server thread/INFO]: Starting minecraft server version 1.21
+[14:47:40] [Server thread/INFO]: Loading properties
+[14:47:41] [Server thread/INFO]: This server is running Paper version 1.21-81-master@ceeb8c1 (2024-07-17T00:39:18Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[14:47:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:47:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:47:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and population gen parallelism of 2 threads
+[14:47:44] [Server thread/INFO]: Default game type: SURVIVAL
+[14:47:44] [Server thread/INFO]: Generating keypair
+[14:47:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:47:44] [Server thread/INFO]: Using epoll channel type
+[14:47:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:47:44] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[14:47:45] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[14:47:45] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_IN
+[14:47:50] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[14:47:50] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[14:47:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:47:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:47:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:47:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:47:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:47:50] [Server thread/INFO]: Preparing level "world"
+[14:48:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:48:06] [Server thread/INFO]: Time elapsed: 4214 ms
+[14:48:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:48:08] [Server thread/INFO]: Time elapsed: 2150 ms
+[14:48:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:48:09] [Server thread/INFO]: Time elapsed: 485 ms
+[14:48:09] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[14:48:09] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:48:09] [Server thread/INFO]: [Geyser-Spigot] 
+[14:48:09] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-b609 (git-master-669a76c)
+[14:48:09] [Server thread/INFO]: [Geyser-Spigot] 
+[14:48:09] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:48:18] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:25565
+[14:48:18] [Server thread/INFO]: [Geyser-Spigot] Done (9.003s)! Run /geyser help for help!
+[14:48:18] [Server thread/INFO]: Running delayed init tasks
+[14:48:18] [Server thread/INFO]: Done (38.201s)! For help, type "help"
+[14:48:18] [Server thread/INFO]: Timings Reset
+[15:24:51] [User Authenticator #0/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[15:24:53] [Server thread/INFO]: BBEASTISHANK joined the game
+[15:24:53] [Server thread/INFO]: BBEASTISHANK[/127.0.0.1:37866] logged in with entity id 68 at ([world]2.5, 69.0, 1.5)
+[15:34:16] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[15:34:16] [Server thread/INFO]: BBEASTISHANK left the game
+[15:39:34] [User Authenticator #1/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[15:39:35] [Server thread/INFO]: BBEASTISHANK joined the game
+[15:39:35] [Server thread/INFO]: BBEASTISHANK[/127.208.211.136:42699] logged in with entity id 1413 at ([world]1.347354431134612, 69.0, 8.15503801429829)
+[15:39:42] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[15:39:42] [Server thread/INFO]: BBEASTISHANK left the game
+[15:39:44] [User Authenticator #1/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[15:39:45] [Server thread/INFO]: BBEASTISHANK joined the game
+[15:39:45] [Server thread/INFO]: BBEASTISHANK[/127.208.211.136:43617] logged in with entity id 1442 at ([world]1.347354431134612, 69.0, 8.15503801429829)
+[15:40:31] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode creative
+[15:40:31] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Creative Mode]
+[15:40:32] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode survival
+[15:40:32] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Survival Mode]
+[15:42:35] [Server thread/INFO]: BBEASTISHANK has made the advancement [Sweet Dreams]
+[15:46:55] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode spectator
+[15:46:55] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Spectator Mode]
+[15:47:20] [Server thread/WARN]: BBEASTISHANK moved too quickly! 24.754201143571038,-9.22500036611288,-1.2802623467732772
+[15:47:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
+[15:48:11] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode survival
+[15:48:11] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Survival Mode]
+[15:51:26] [Server thread/INFO]: BBEASTISHANK has made the advancement [Acquire Hardware]
+[15:52:01] [Server thread/INFO]: BBEASTISHANK has made the advancement [Isn't It Iron Pick]
+[15:59:25] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[15:59:25] [Server thread/INFO]: BBEASTISHANK left the game
+[16:01:36] [User Authenticator #2/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[16:01:37] [Server thread/INFO]: BBEASTISHANK joined the game
+[16:01:37] [Server thread/INFO]: BBEASTISHANK[/127.208.211.136:40085] logged in with entity id 4262 at ([world]-43.13912688404629, 51.0, 29.20379916276592)
+[16:01:48] [Server thread/INFO]: BBEASTISHANK has made the advancement [Stone Age]
+[16:04:10] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username BBEASTISHANK
+[16:04:11] [localSession-7-2/INFO]: [Geyser-Spigot] BBEASTISHANK (logged in as: BBEASTISHANK) has connected to the Java server
+[16:04:11] [User Authenticator #3/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[16:04:11] [Server thread/INFO]: BBEASTISHANK lost connection: You logged in from another location
+[16:04:11] [Server thread/INFO]: BBEASTISHANK left the game
+[16:04:11] [Server thread/INFO]: BBEASTISHANK joined the game
+[16:04:11] [Server thread/INFO]: BBEASTISHANK[/127.208.211.136:0] logged in with entity id 4592 at ([world]-25.38606312780196, 53.0, 31.751037469328963)
+[16:04:30] [localSession-7-2/INFO]: [Geyser-Spigot] BBEASTISHANK has disconnected from the Java server because of Bedrock client disconnected
+[16:04:30] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[16:04:30] [Server thread/INFO]: BBEASTISHANK left the game
+[16:26:54] [User Authenticator #4/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[16:26:55] [Server thread/INFO]: BBEASTISHANK joined the game
+[16:26:55] [Server thread/INFO]: BBEASTISHANK[/127.208.211.136:46055] logged in with entity id 4623 at ([world]-25.386063, 53.0, 31.751038)
+[16:29:33] [Server thread/INFO]: BBEASTISHANK issued server command: /whitelist on
+[16:29:33] [Server thread/INFO]: [BBEASTISHANK: Whitelist is now turned on]
+[16:36:13] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[16:36:13] [Server thread/INFO]: BBEASTISHANK left the game
+[16:36:17] [Server thread/INFO]: Stopping the server
+[16:36:17] [Server thread/INFO]: Stopping server
+[16:36:17] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.0-SNAPSHOT
+[16:36:17] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[16:36:17] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[16:36:17] [Server thread/INFO]: Saving players
+[16:36:17] [Server thread/INFO]: Saving worlds
+[16:36:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:36:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:36:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:36:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:36:19] [Server thread/INFO]: [ChunkHolderManager] Saved 1012 block chunks, 786 entity chunks, 2 poi chunks in world 'world' in 2.10s
+[16:36:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:36:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:36:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:36:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:36:20] [Server thread/INFO]: [ChunkHolderManager] Saved 794 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.48s
+[16:36:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:36:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:36:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:36:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:36:20] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.31s
+[16:36:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:36:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:36:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:36:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

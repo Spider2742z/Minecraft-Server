@@ -1,400 +1,110 @@
-[00:29:14] [User Authenticator #1/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[00:29:15] [Server thread/INFO]: BBEASTISHANK joined the game
-[00:29:15] [Server thread/INFO]: BBEASTISHANK[/127.79.54.208:48441] logged in with entity id 3194 at ([limbo]-566.0183430922474, 62.111353453545654, -243.50577412507312)
-[00:29:38] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
-[00:29:38] [Server thread/INFO]: BBEASTISHANK left the game
-[00:29:55] [User Authenticator #1/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[00:29:56] [Server thread/INFO]: BBEASTISHANK joined the game
-[00:29:56] [Server thread/INFO]: BBEASTISHANK[/127.79.54.208:36799] logged in with entity id 3447 at ([limbo]0.0, 70.0, 0.0)
-[00:30:25] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
-[00:30:25] [Server thread/INFO]: BBEASTISHANK left the game
-[00:32:49] [User Authenticator #2/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[00:32:50] [Server thread/INFO]: BBEASTISHANK joined the game
-[00:32:50] [Server thread/INFO]: BBEASTISHANK[/127.79.54.208:57903] logged in with entity id 3637 at ([limbo]0.0, 70.0, 0.0)
-[00:32:52] [User Authenticator #2/INFO]: UUID of player Mayhem5959 is d3a74558-a3ed-3b03-bdc9-801b81f5c11d
-[00:32:53] [Server thread/INFO]: Mayhem5959 joined the game
-[00:32:53] [Server thread/INFO]: Mayhem5959[/127.185.16.41:55587] logged in with entity id 3638 at ([limbo]0.0, 70.0, 0.0)
-[00:41:14] [Server thread/INFO]: Mayhem5959 was slain by BBEASTISHANK
-[00:41:37] [Server thread/INFO]: Mayhem5959 was slain by BBEASTISHANK
-[00:44:27] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > ?
-[00:44:28] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Kkrh
-[00:44:31] [Async Chat Thread - #0/INFO]: [Not Secure] <BBEASTISHANK> concreet
-[00:44:43] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Kaun kaun hai
-[00:45:00] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > ?
-[00:45:04] [Async Chat Thread - #0/INFO]: [Not Secure] <BBEASTISHANK> hum and hb
-[00:45:06] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Marle ignore
-[00:45:15] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Aur rajasthani bhai hello
-[00:45:20] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Aaja vc hum bhi aaye kya
-[00:45:21] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > ?
-[00:45:23] [Server thread/INFO]: Mayhem5959 fell from a high place
-[00:45:28] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Shit
-[00:45:29] [Async Chat Thread - #0/INFO]: [Not Secure] <BBEASTISHANK> https://meet.google.com/akb-wjsf-fnk
-[00:45:45] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Bc tumoo kya lagta mera tab ipad hai
-[00:45:47] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > ?
-[00:46:31] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Abbe guys tum loog dc pe kyu nhj hai
-[00:46:32] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > ?
-[00:46:42] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Aur hriday bhai kya hhal chal
-[00:47:26] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Abbe bbbbbiiiiiiiiiiiiii
-[00:47:33] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Hriday kaun hai
-[00:47:43] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Ooo
-[00:47:48] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Hriday kaun hoti
-[00:48:09] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Bc hriday kaunn n hai
-[00:48:56] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
-[00:48:56] [Server thread/INFO]: BBEASTISHANK left the game
-[00:48:58] [User Authenticator #3/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[00:48:59] [Server thread/INFO]: BBEASTISHANK joined the game
-[00:48:59] [Server thread/INFO]: BBEASTISHANK[/127.79.54.208:48673] logged in with entity id 7335 at ([limbo]0.0, 70.0, 0.0)
-[00:49:04] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ajha1304
-[00:49:04] [localSession-7-2/INFO]: [Geyser-Spigot] ajha1304 (logged in as: ajha1304) has connected to the Java server
-[00:49:05] [User Authenticator #3/INFO]: UUID of player ajha1304 is 926d1512-3375-3515-94d2-891e64131925
-[00:49:06] [Server thread/INFO]: ajha1304 joined the game
-[00:49:06] [Server thread/INFO]: ajha1304[/127.130.157.140:0] logged in with entity id 7345 at ([limbo]0.0, 70.0, 0.0)
-[00:49:53] [Async Chat Thread - #2/INFO]: [Not Secure] <ajha1304> bro got no chill
-[00:51:06] [Server thread/INFO]: ajha1304 was slain by Mayhem5959
-[00:53:41] [Async Chat Thread - #4/INFO]: [Not Secure] <ajha1304> ye bc pani niche nhi ja rha
-[00:55:10] [Async Chat Thread - #6/INFO]: [Not Secure] <ajha1304> hb bhai upar chal pehle
-[00:57:18] [Server thread/WARN]: ajha1304 moved wrongly!
-[00:57:18] [Server thread/WARN]: ajha1304 moved wrongly!
-[00:57:29] [Server thread/WARN]: ajha1304 moved wrongly!
-[00:58:24] [Async Chat Thread - #8/INFO]: [Not Secure] <ajha1304> Gali deta mc
-[00:58:29] [Server thread/INFO]: BBEASTISHANK was slain by ajha1304
-[00:58:36] [Server thread/INFO]: ajha1304 has made the advancement [Acquire Hardware]
-[00:59:09] [Async Chat Thread - #9/INFO]: [Not Secure] <ajha1304> skills
-[00:59:18] [Server thread/INFO]: BBEASTISHANK fell from a high place
-[00:59:24] [Async Chat Thread - #9/INFO]: [Not Secure] <ajha1304> wow
-[00:59:51] [Async Chat Thread - #9/INFO]: [Not Secure] <ajha1304> khale
-[00:59:55] [Server thread/INFO]: BBEASTISHANK fell from a high place
-[00:59:55] [Async Chat Thread - #9/INFO]: [Not Secure] <ajha1304> spider eye
-[01:00:08] [Async Chat Thread - #9/INFO]: [Not Secure] <ajha1304> wahi ganjeri
-[01:00:28] [Server thread/INFO]: BBEASTISHANK was doomed to fall by Zombie
-[01:00:47] [Async Chat Thread - #8/INFO]: [Not Secure] <ajha1304> pickaxe use kaar bhai
-[01:01:13] [Async Chat Thread - #8/INFO]: [Not Secure] <Mayhem5959> nahi hai mere pe
-[01:01:40] [Async Chat Thread - #8/INFO]: [Not Secure] <ajha1304> moment khrb kkardiýa
-[01:01:52] [Server thread/INFO]: BBEASTISHANK was slain by ajha1304
-[01:01:58] [Async Chat Thread - #8/INFO]: [Not Secure] <ajha1304> arri bc
-[01:02:34] [Server thread/INFO]: Mayhem5959 was doomed to fall by BBEASTISHANK
-[01:04:27] [Async Chat Thread - #10/INFO]: [Not Secure] <ajha1304> moment hai bha
-[01:04:40] [Async Chat Thread - #10/INFO]: [Not Secure] <ajha1304> ooye hriday aaja sale
-[01:05:45] [Async Chat Thread - #12/INFO]: [Not Secure] <ajha1304> bhai wo chutiya tohai axe se gold tod rhw
-[01:06:05] [Async Chat Thread - #12/INFO]: [Not Secure] <ajha1304> rajasthani
-[01:06:17] [Server thread/INFO]: BBEASTISHANK was slain by Mayhem5959
-[01:06:17] [Server thread/INFO]: BBEASTISHANK lost connection: Timed out
-[01:06:17] [Server thread/INFO]: BBEASTISHANK left the game
-[01:06:34] [User Authenticator #4/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[01:06:41] [localSession-7-2/INFO]: [Geyser-Spigot] ajha1304 has disconnected from the Java server because of Bedrock client timed out
-[01:06:41] [Server thread/INFO]: ajha1304 lost connection: Disconnected
-[01:06:41] [Server thread/INFO]: ajha1304 left the game
-[01:06:51] [User Authenticator #4/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[01:06:53] [Server thread/INFO]: BBEASTISHANK joined the game
-[01:06:53] [Server thread/INFO]: BBEASTISHANK[/127.79.54.208:55623] logged in with entity id 9942 at ([limbo]0.0, 70.0, 0.0)
-[01:06:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@18f5b5be[id=6d90fc3b-7224-3212-8a46-a857858d8a22,name=BBEASTISHANK,properties={}] lost connection: Disconnected
-[01:07:08] [Server thread/INFO]: Mayhem5959 lost connection: Timed out
-[01:07:08] [Server thread/INFO]: Mayhem5959 left the game
-[01:07:37] [Server thread/INFO]: BBEASTISHANK lost connection: Timed out
-[01:07:37] [Server thread/INFO]: BBEASTISHANK left the game
-[01:08:01] [User Authenticator #5/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[01:08:26] [User Authenticator #5/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[01:08:27] [Server thread/INFO]: BBEASTISHANK joined the game
-[01:08:27] [Server thread/INFO]: BBEASTISHANK[/127.0.0.1:33000] logged in with entity id 10072 at ([limbo]0.0, 70.0, 0.0)
-[01:08:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@5bf6886b[id=6d90fc3b-7224-3212-8a46-a857858d8a22,name=BBEASTISHANK,properties={}] lost connection: Timed out
-[01:08:42] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Akele
-[01:08:44] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > ?
-[01:08:54] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > https://cdn.discordapp.com/attachments/1188087968968216607/1279163457689878568/image0.jpg?ex=66d3714e&is=66d21fce&hm=98253e1f22bf89556275364249df4cbe8e85e199f527fe50bd7af61525bd1c2b&
-[01:09:01] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
-[01:09:01] [Server thread/INFO]: BBEASTISHANK left the game
-[01:09:16] [User Authenticator #5/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[01:09:20] [Server thread/INFO]: BBEASTISHANK (/127.79.54.208:38675) lost connection: Disconnected
-[01:09:44] [User Authenticator #5/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[01:09:45] [Server thread/INFO]: BBEASTISHANK joined the game
-[01:09:45] [Server thread/INFO]: BBEASTISHANK[/127.79.54.208:40321] logged in with entity id 10170 at ([limbo]0.0, 70.0, 0.0)
-[01:09:59] [User Authenticator #5/INFO]: UUID of player Mayhem5959 is d3a74558-a3ed-3b03-bdc9-801b81f5c11d
-[01:10:00] [Server thread/INFO]: Mayhem5959 joined the game
-[01:10:00] [Server thread/INFO]: Mayhem5959[/127.185.16.41:54295] logged in with entity id 10189 at ([limbo]0.0, 70.0, 0.0)
-[01:10:13] [Async Chat Thread - #14/INFO]: [Not Secure] <BBEASTISHANK> meet pe aja
-[01:10:47] [Async Chat Thread - #14/INFO]: [Not Secure] <BBEASTISHANK> meet aja
-[01:10:48] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Bc
-[01:11:01] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Bc shanti se koi hilena na deta
-[01:11:14] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Cumming
-[01:12:07] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Nice way to adress someone machar ki gand :joy:
-[01:12:43] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Bc bhai terankoi mitar nhi khelta mc
-[01:12:47] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Chi kya dost hai
-[01:13:24] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:25] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> BBEASTISHANK
-[01:13:27] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:28] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:28] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:29] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:31] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> BBEASTISHANK
-[01:13:32] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:34] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:35] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:36] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:37] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:37] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ajha1304
-[01:13:37] [localSession-7-3/INFO]: [Geyser-Spigot] ajha1304 (logged in as: ajha1304) has connected to the Java server
-[01:13:38] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> Mayhem5959
-[01:13:38] [User Authenticator #6/INFO]: UUID of player ajha1304 is 926d1512-3375-3515-94d2-891e64131925
-[01:13:38] [Server thread/INFO]: ajha1304 joined the game
-[01:13:38] [Server thread/INFO]: ajha1304[/127.130.157.140:0] logged in with entity id 10826 at ([limbo]0.0, 70.0, 0.0)
-[01:13:39] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> ajha1304
-[01:13:41] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> ajha1304
-[01:13:42] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> BBEASTISHANK
-[01:13:43] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> BBEASTISHANK
-[01:13:43] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> BBEASTISHANK
-[01:13:44] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> BBEASTISHANK
-[01:13:45] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> BBEASTISHANK
-[01:13:46] [Async Chat Thread - #16/INFO]: [Not Secure] <BBEASTISHANK> BBEASTISHANK
-[01:14:22] [Async Chat Thread - #16/INFO]: [Not Secure] <ajha1304> bro simping on everyone
-[01:14:57] [Async Chat Thread - #16/INFO]: [Not Secure] <ajha1304> bbi bachale uss cave se
-[01:17:01] [Async Chat Thread - #18/INFO]: [Not Secure] <ajha1304> abbe bachelbpzzzzzz
-[01:17:17] [Async Chat Thread - #18/INFO]: [Not Secure] <ajha1304> bhaiiiiiiiiii
-[01:17:23] [Server thread/INFO]: Mayhem5959 has made the advancement [Isn't It Iron Pick]
-[01:17:56] [Async Chat Thread - #18/INFO]: [Not Secure] <ajha1304> bc bedrock me cave pura andhera rhta
-[01:18:05] [Server thread/INFO]: Mayhem5959 fell from a high place
-[01:19:20] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> its you whose lagging
-[01:19:55] [Server thread/INFO]: BBEASTISHANK issued server command: /msg ajha1304 mere pass hai
-[01:20:28] [Async Chat Thread - #21/INFO]: [Not Secure] <ajha1304> hn bhai 10 min to gy tum log uss ladki ko paresan karte uua
-[01:20:36] [Async Chat Thread - #21/INFO]: [Not Secure] <ajha1304> shit
-[01:21:21] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> dekh isha k pani na gir rha bucket se
-[01:21:42] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> bc place kar rhe yaha place horha waha
-[01:22:11] [Server thread/INFO]: Mayhem5959 tried to swim in lava
-[01:22:17] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> wow
-[01:22:57] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> bc ye pani ki mkc
-[01:23:07] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> bucket ki mkc
-[01:23:17] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> pani na gir rha
-[01:23:55] [Server thread/INFO]: Mayhem5959 was slain by ajha1304
-[01:23:58] [Server thread/WARN]: BBEASTISHANK moved too quickly! -13.296046311244936,-0.20326439933130303,3.0028738336473992
-[01:24:03] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> hogya
-[01:24:15] [Server thread/WARN]: BBEASTISHANK moved too quickly! 10.599628954409667,-1.945235477477226,-0.6309067949335514
-[01:24:34] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> mar de agar himat hai
-[01:25:13] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> paniphekna
-[01:27:02] [Async Chat Thread - #22/INFO]: [Not Secure] <ajha1304> sperm
-[01:27:05] [Async Chat Thread - #22/INFO]: [Not Secure] <ajha1304> ?
-[01:27:12] [Async Chat Thread - #22/INFO]: [Not Secure] <ajha1304> ho kha a
-[01:28:30] [localSession-7-3/INFO]: [Geyser-Spigot] ajha1304 has disconnected from the Java server because of Bedrock client disconnected
-[01:28:30] [Server thread/INFO]: ajha1304 lost connection: Disconnected
-[01:28:30] [Server thread/INFO]: ajha1304 left the game
-[01:28:57] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ajha1304
-[01:28:57] [localSession-7-4/INFO]: [Geyser-Spigot] ajha1304 (logged in as: ajha1304) has connected to the Java server
-[01:28:57] [User Authenticator #7/INFO]: UUID of player ajha1304 is 926d1512-3375-3515-94d2-891e64131925
-[01:28:58] [Server thread/INFO]: ajha1304 joined the game
-[01:28:58] [Server thread/INFO]: ajha1304[/127.130.157.140:0] logged in with entity id 13122 at ([limbo]0.0, 70.0, 0.0)
-[01:31:11] [Async Chat Thread - #24/INFO]: [Not Secure] <ajha1304> meetme kaun kaun hoti
-[01:31:49] [Async Chat Thread - #25/INFO]: [Not Secure] <ajha1304> is hriday bhai gay
-[01:32:42] [Async Chat Thread - #25/INFO]: [Not Secure] <ajha1304> stone de 3
-[01:32:49] [Server thread/INFO]: ajha1304 has made the advancement [Isn't It Iron Pick]
-[01:33:19] [Async Chat Thread - #25/INFO]: [Not Secure] <ajha1304> torchi hai tumpe
-[01:34:13] [Async Chat Thread - #25/INFO]: [Not Secure] <ajha1304> same sochrhe the lol
-[01:36:18] [Async Chat Thread - #26/INFO]: [Not Secure] <ajha1304> torch de
-[01:36:40] [Async Chat Thread - #26/INFO]: [Not Secure] <ajha1304> accha mtlb pura khali
-[01:37:20] [Async Chat Thread - #26/INFO]: [Not Secure] <ajha1304> atleast polished diorite use karna yuck
-[01:37:44] [Async Chat Thread - #26/INFO]: [Not Secure] <ajha1304> ye gandu kidhar hai
-[01:38:21] [Async Chat Thread - #26/INFO]: [Not Secure] <ajha1304> bc kya jagah dhunda hai bbi tum
-[01:40:12] [Async Chat Thread - #28/INFO]: [Not Secure] <ajha1304> damn
-[01:40:22] [Async Chat Thread - #28/INFO]: [Not Secure] <ajha1304> nhi chor khula
-[01:41:35] [Async Chat Thread - #30/INFO]: [Not Secure] <ajha1304> collect karne bheje
-[01:42:02] [Async Chat Thread - #30/INFO]: [Not Secure] <ajha1304> arre cobbleston tode na to wo gir nicha tu usko udhar dhakka diye ki collect karle
-[01:43:43] [Async Chat Thread - #32/INFO]: [Not Secure] <ajha1304> bro atleast avoide usa politics
-[01:44:13] [Async Chat Thread - #32/INFO]: [Not Secure] <ajha1304> arri hum rajasthani jaise dumb nhi na hai
-[01:44:23] [Async Chat Thread - #32/INFO]: [Not Secure] <ajha1304> ooye chest bana
-[01:44:27] [Async Chat Thread - #32/INFO]: [Not Secure] <ajha1304> bbi
-[01:44:33] [Async Chat Thread - #32/INFO]: [Not Secure] <ajha1304> hb hum chunk khali kar rha
-[01:44:40] [Async Chat Thread - #32/INFO]: [Not Secure] <ajha1304> Rri nhi cobble wagera ke liye
-[01:44:49] [Async Chat Thread - #32/INFO]: [Not Secure] <ajha1304> small piece of land
-[01:45:13] [localSession-7-4/INFO]: [Geyser-Spigot] ajha1304 has disconnected from the Java server because of Bedrock client disconnected
-[01:45:13] [Server thread/INFO]: ajha1304 lost connection: Disconnected
-[01:45:13] [Server thread/INFO]: ajha1304 left the game
-[01:45:29] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username ajha1304
-[01:45:29] [localSession-7-1/INFO]: [Geyser-Spigot] ajha1304 (logged in as: ajha1304) has connected to the Java server
-[01:45:30] [User Authenticator #8/INFO]: UUID of player ajha1304 is 926d1512-3375-3515-94d2-891e64131925
-[01:45:30] [Server thread/INFO]: ajha1304 joined the game
-[01:45:30] [Server thread/INFO]: ajha1304[/127.130.157.140:0] logged in with entity id 17203 at ([limbo]0.0, 70.0, 0.0)
-[01:46:53] [localSession-7-1/INFO]: [Geyser-Spigot] ajha1304 has disconnected from the Java server because of Bedrock client timed out
-[01:46:53] [Server thread/INFO]: ajha1304 lost connection: Disconnected
-[01:46:53] [Server thread/INFO]: ajha1304 left the game
-[01:47:13] [Server thread/INFO]: Mayhem5959 lost connection: Timed out
-[01:47:13] [Server thread/INFO]: Mayhem5959 left the game
-[01:47:38] [User Authenticator #9/INFO]: UUID of player Mayhem5959 is d3a74558-a3ed-3b03-bdc9-801b81f5c11d
-[01:47:38] [Server thread/INFO]: Mayhem5959 joined the game
-[01:47:38] [Server thread/INFO]: Mayhem5959[/127.185.16.41:55733] logged in with entity id 17655 at ([limbo]0.0, 70.0, 0.0)
-[01:48:58] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Unable to connect aarha gyser band hogya kya
-[01:49:07] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
-[01:49:07] [Server thread/INFO]: BBEASTISHANK left the game
-[01:49:07] [Server thread/INFO]: Mayhem5959 lost connection: Disconnected
-[01:49:07] [Server thread/INFO]: Mayhem5959 left the game
-[01:49:11] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Ya playit?
-[01:49:27] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Waah abbe itna bakwas kiska net hai
-[01:49:32] [User Authenticator #10/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[01:49:33] [Server thread/INFO]: BBEASTISHANK joined the game
-[01:49:33] [Server thread/INFO]: BBEASTISHANK[/127.79.54.208:49425] logged in with entity id 17986 at ([limbo]0.0, 70.0, 0.0)
-[01:49:36] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Bbi wp group me add kar humko
-[01:49:55] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ajha1304
-[01:49:55] [localSession-7-2/INFO]: [Geyser-Spigot] ajha1304 (logged in as: ajha1304) has connected to the Java server
-[01:49:56] [User Authenticator #10/INFO]: UUID of player ajha1304 is 926d1512-3375-3515-94d2-891e64131925
-[01:49:56] [Server thread/INFO]: ajha1304 joined the game
-[01:49:56] [Server thread/INFO]: ajha1304[/127.130.157.140:0] logged in with entity id 18056 at ([limbo]0.0, 70.0, 0.0)
-[01:51:30] [Async Chat Thread - #34/INFO]: [Not Secure] <ajha1304> bhai iron pick de thokke bhah pe
-[01:53:28] [User Authenticator #11/INFO]: UUID of player Mayhem5959 is d3a74558-a3ed-3b03-bdc9-801b81f5c11d
-[01:53:29] [Server thread/INFO]: Mayhem5959 joined the game
-[01:53:29] [Server thread/INFO]: Mayhem5959[/127.185.16.41:59893] logged in with entity id 18484 at ([limbo]0.0, 70.0, 0.0)
-[01:53:48] [Async Chat Thread - #36/INFO]: [Not Secure] <ajha1304> mayhem aur aadmi ko bula
-[01:54:30] [Async Chat Thread - #36/INFO]: [Not Secure] <ajha1304> jitna majdorr utna shi
-[01:55:52] [Async Chat Thread - #38/INFO]: [Not Secure] <ajha1304> abbe cobblewale me 4 stack sand rkhe hai lele
-[01:56:56] [Async Chat Thread - #40/INFO]: [Not Secure] <ajha1304> ooyemajdur idhar aaja
-[01:57:28] [Async Chat Thread - #40/INFO]: [Not Secure] <ajha1304> bbi siko smjha de spiral likhne me sal lag jayega
-[01:58:09] [Async Chat Thread - #40/INFO]: [Not Secure] <ajha1304> tu bichka khali kar bus spiral ka tension na le
-[02:00:09] [Async Chat Thread - #42/INFO]: [Not Secure] <ajha1304> sahaj gay hai
-[02:03:20] [Async Chat Thread - #44/INFO]: [Not Secure] <ajha1304> mera khatam last pickaxe
-[02:05:24] [Async Chat Thread - #46/INFO]: [Not Secure] <ajha1304> 1
-[02:08:43] [Server thread/INFO]: ajha1304 was shot by Skeleton
-[02:08:57] [Async Chat Thread - #48/INFO]: [Not Secure] <ajha1304> -106 183
-[02:09:00] [Async Chat Thread - #48/INFO]: [Not Secure] <ajha1304> help
-[02:09:26] [Async Chat Thread - #49/INFO]: [Not Secure] <ajha1304> aaaaaa
-[02:09:31] [Async Chat Thread - #49/INFO]: [Not Secure] <ajha1304> bc rapehogya mera
-[02:09:32] [Server thread/INFO]: ajha1304 was slain by Zombie
-[02:10:35] [Async Chat Thread - #50/INFO]: [Not Secure] <ajha1304> idhar iron hai
-[02:11:32] [Async Chat Thread - #50/INFO]: [Not Secure] <ajha1304> ye pakd
-[02:12:08] [Async Chat Thread - #50/INFO]: [Not Secure] <ajha1304> ab isko kaise thik kare
-[02:12:25] [Async Chat Thread - #50/INFO]: [Not Secure] <ajha1304> mayhem bich ka khali kar
-[02:13:18] [Server thread/INFO]: BBEASTISHANK fell from a high place
-[02:13:51] [Async Chat Thread - #52/INFO]: [Not Secure] <ajha1304> isek pass glass hai shyad
-[02:14:47] [Async Chat Thread - #52/INFO]: [Not Secure] <ajha1304> mera bhi de
-[02:15:06] [Async Chat Thread - #52/INFO]: [Not Secure] <ajha1304> mera shield de
-[02:15:25] [Async Chat Thread - #52/INFO]: [Not Secure] <ajha1304> bc nhi dikh rha khade hai to lol
-[02:15:33] [Async Chat Thread - #52/INFO]: [Not Secure] <ajha1304> kidhar kab kiye
-[02:15:41] [Async Chat Thread - #52/INFO]: [Not Secure] <ajha1304> iron no
-[02:15:45] [Async Chat Thread - #53/INFO]: [Not Secure] <ajha1304> stone a bana
-[02:16:04] [Async Chat Thread - #53/INFO]: [Not Secure] <ajha1304> Mera pila bed de
-[02:16:22] [Async Chat Thread - #53/INFO]: [Not Secure] <ajha1304> iska chatha bana de
-[02:16:50] [Async Chat Thread - #53/INFO]: [Not Secure] <ajha1304> ye hai merepe
-[02:18:53] [Async Chat Thread - #54/INFO]: [Not Secure] <ajha1304> again nhi pata tha waise ye bedrock me nhi dikhta
-[02:19:09] [Async Chat Thread - #54/INFO]: [Not Secure] <ajha1304> abbe hb usko khuddd
-[02:19:40] [Async Chat Thread - #54/INFO]: [Not Secure] <ajha1304> hb sale usko khol
-[02:20:00] [Async Chat Thread - #54/INFO]: [Not Secure] <ajha1304> merepe 17 carrot hai
-[02:22:07] [Async Chat Thread - #56/INFO]: [Not Secure] <ajha1304> cumming bringin most important thing
-[02:22:22] [Async Chat Thread - #56/INFO]: [Not Secure] <ajha1304> nhi wo to hai hi
-[02:22:37] [Async Chat Thread - #56/INFO]: [Not Secure] <ajha1304> aake batate
-[02:24:12] [Async Chat Thread - #58/INFO]: [Not Secure] <ajha1304> ek repta marnge gand tut jayega
-[02:25:32] [Async Chat Thread - #60/INFO]: [Not Secure] <ajha1304> kya mtlb humlog island pe hai
-[02:26:06] [Async Chat Thread - #60/INFO]: [Not Secure] <ajha1304> abbe merpe 47 ganja hai
-[02:26:18] [Async Chat Thread - #60/INFO]: [Not Secure] <ajha1304> ganjar
-[02:26:42] [Async Chat Thread - #60/INFO]: [Not Secure] <ajha1304> bol kaun rha hai dekho
-[02:26:59] [Async Chat Thread - #60/INFO]: [Not Secure] <ajha1304> sale dar khatam hogya hai tera
-[02:27:07] [Async Chat Thread - #60/INFO]: [Not Secure] <ajha1304> hb
-[02:27:23] [Async Chat Thread - #60/INFO]: [Not Secure] <ajha1304> bbi infite water bana le plz ye le bucker
-[02:27:57] [Async Chat Thread - #60/INFO]: [Not Secure] <ajha1304> bbi hum dikhaye apn most important studd jo lane gye the
-[02:28:30] [Async Chat Thread - #60/INFO]: [Not Secure] <ajha1304> nhi that was secondary
-[02:29:17] [Async Chat Thread - #60/INFO]: [Not Secure] <ajha1304> gadhe stone ka shovel banale
-[02:29:30] [Async Chat Thread - #61/INFO]: [Not Secure] <ajha1304> bc mera belllll
-[02:30:48] [Async Chat Thread - #62/INFO]: [Not Secure] <ajha1304> aaj hoga overtime
-[02:32:00] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
-[02:32:00] [Server thread/INFO]: BBEASTISHANK left the game
-[02:32:05] [User Authenticator #12/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[02:32:06] [Server thread/INFO]: BBEASTISHANK joined the game
-[02:32:06] [Server thread/INFO]: BBEASTISHANK[/127.79.54.208:51905] logged in with entity id 25677 at ([limbo]0.0, 70.0, 0.0)
-[02:32:07] [Server thread/INFO]: BBEASTISHANK issued server command: /
-[02:32:29] [Server thread/INFO]: Mayhem5959 was slain by Zombie
-[02:33:24] [Async Chat Thread - #64/INFO]: [Not Secure] <ajha1304> diamond
-[02:33:46] [Server thread/INFO]: ajha1304 was slain by Mayhem5959
-[02:34:02] [Server thread/INFO]: Mayhem5959 was slain by BBEASTISHANK
-[02:34:43] [Server thread/INFO]: ajha1304 has made the advancement [Getting an Upgrade]
-[02:35:17] [Async Chat Thread - #66/INFO]: [Not Secure] <ajha1304> kya
-[02:35:37] [Server thread/INFO]: Mayhem5959 was slain by ajha1304
-[02:36:15] [Async Chat Thread - #66/INFO]: [Not Secure] <ajha1304> my shield ?
-[02:37:55] [Server thread/INFO]: ajha1304 was slain by Mayhem5959
-[02:37:55] [Async Chat Thread - #68/INFO]: [Not Secure] <ajha1304> isk chath banaye
-[02:38:21] [Async Chat Thread - #68/INFO]: [Not Secure] <ajha1304> saale mera sword pick bread shield de
-[02:39:19] [Async Chat Thread - #68/INFO]: [Not Secure] <ajha1304> bbi chat dekh le kaun kisko mara
-[02:39:24] [Async Chat Thread - #68/INFO]: [Not Secure] <ajha1304> aur saman chori kiya
-[02:39:41] [Async Chat Thread - #68/INFO]: [Not Secure] <ajha1304> upar se nakal karta hai
-[02:40:51] [Async Chat Thread - #70/INFO]: [Not Secure] <ajha1304> hb isko khod jake
-[02:41:17] [Async Chat Thread - #71/INFO]: [Not Secure] <ajha1304> iska roof bana de
-[02:41:37] [Server thread/INFO]: ajha1304 has made the advancement [The Parrots and the Bats]
-[02:43:40] [Async Chat Thread - #72/INFO]: [Not Secure] <ajha1304> jor se bol
-[02:46:24] [Async Chat Thread - #74/INFO]: [Not Secure] <ajha1304> bhai farming karna
-[02:48:17] [Server thread/INFO]: Mayhem5959 lost connection: Disconnected
-[02:48:17] [Server thread/INFO]: Mayhem5959 left the game
-[02:48:46] [Async Chat Thread - #76/INFO]: [Not Secure] <ajha1304> ishank me too going 3 baj gya mummy jag gyi kuuta jayenge good night
-[02:49:37] [Async Chat Thread - #76/INFO]: [Not Secure] <ajha1304> corner nhi chadh skte
-[02:49:43] [localSession-7-2/INFO]: [Geyser-Spigot] ajha1304 has disconnected from the Java server because of Bedrock client disconnected
-[02:49:43] [Server thread/INFO]: ajha1304 lost connection: Disconnected
-[02:49:43] [Server thread/INFO]: ajha1304 left the game
-[03:07:03] [Server thread/INFO]: BBEASTISHANK has made the advancement [A Seedy Place]
-[03:09:50] [Server thread/INFO]: BBEASTISHANK hit the ground too hard
-[03:22:32] [Server thread/INFO]: BBEASTISHANK fell from a high place
-[03:43:17] [Server thread/INFO]: BBEASTISHANK has made the advancement [Hot Stuff]
-[03:44:22] [Server thread/INFO]: BBEASTISHANK burned to death
-[03:44:36] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Demon > noice
-[03:44:46] [Async Chat Thread - #78/INFO]: [Not Secure] <BBEASTISHANK> VC
-[03:45:14] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Demon > nha sone ja rahe hai
-[03:45:19] [Async Chat Thread - #78/INFO]: [Not Secure] <BBEASTISHANK> ok ok
-[04:00:17] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Co Owner] Ankit Jha > Soja sale
-[04:04:21] [Server thread/INFO]: BBEASTISHANK issued server command: /seed
-[04:05:19] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ajha1304
-[04:05:19] [localSession-7-3/INFO]: [Geyser-Spigot] ajha1304 (logged in as: ajha1304) has connected to the Java server
-[04:05:20] [User Authenticator #13/INFO]: UUID of player ajha1304 is 926d1512-3375-3515-94d2-891e64131925
-[04:05:21] [Server thread/INFO]: ajha1304 joined the game
-[04:05:21] [Server thread/INFO]: ajha1304[/127.130.157.140:0] logged in with entity id 37170 at ([limbo]0.0, 70.0, 0.0)
-[04:07:00] [Async Chat Thread - #80/INFO]: [Not Secure] <BBEASTISHANK> KAISA HAI
-[04:07:11] [Async Chat Thread - #80/INFO]: [Not Secure] <BBEASTISHANK> TEMP GARBAGE BIN
-[04:07:14] [Async Chat Thread - #80/INFO]: [Not Secure] <ajha1304> mast hai bhaii
-[04:07:21] [Async Chat Thread - #80/INFO]: [Not Secure] <BBEASTISHANK> IRON ANE DE FIR WO CAULDREN LGA ENGE
-[04:07:37] [Async Chat Thread - #80/INFO]: [Not Secure] <ajha1304> damn
-[04:09:45] [Async Chat Thread - #82/INFO]: [Not Secure] <BBEASTISHANK> MINE
-[04:10:53] [Async Chat Thread - #84/INFO]: [Not Secure] <BBEASTISHANK> CHUNKBASE KE HISAB SE YHA TRESSURE HAI
-[04:11:40] [Async Chat Thread - #84/INFO]: [Not Secure] <BBEASTISHANK> CHORO
-[04:11:45] [Async Chat Thread - #84/INFO]: [Not Secure] <BBEASTISHANK> JARAI HUM SONE
-[04:11:52] [Async Chat Thread - #85/INFO]: [Not Secure] <ajha1304> ggidnifht
-[04:12:29] [Server thread/WARN]: ajha1304 moved wrongly!
-[04:12:29] [Server thread/WARN]: ajha1304 moved wrongly!
-[04:12:29] [Server thread/WARN]: ajha1304 moved wrongly!
-[04:12:30] [Server thread/WARN]: ajha1304 moved wrongly!
-[04:16:18] [Async Chat Thread - #86/INFO]: [Not Secure] <BBEASTISHANK> HEHEH ECAPES
-[04:21:09] [Server thread/INFO]: Villager Villager['Farmer'/193, uuid='8f959c23-e07a-495f-b469-b699da560f2b', l='ServerLevel[world]', x=-156.58, y=69.94, z=-19.70, cpos=[-10, -2], tl=465276, v=true] died, message: 'Farmer was slain by Zombie'
-[04:25:05] [Async Chat Thread - #88/INFO]: [Not Secure] <ajha1304> chal bye
-[04:25:08] [Async Chat Thread - #89/INFO]: [Not Secure] <ajha1304> good night
-[04:25:11] [Server thread/INFO]: ajha1304 was slain by BBEASTISHANK
-[04:25:20] [Async Chat Thread - #89/INFO]: [Not Secure] <ajha1304> cheater
-[04:25:21] [Async Chat Thread - #89/INFO]: [Not Secure] <BBEASTISHANK> finally i won
-[04:25:23] [localSession-7-3/INFO]: [Geyser-Spigot] ajha1304 has disconnected from the Java server because of Bedrock client disconnected
-[04:25:23] [Server thread/INFO]: ajha1304 lost connection: Disconnected
-[04:25:23] [Server thread/INFO]: ajha1304 left the game
-[04:25:29] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
-[04:25:30] [Server thread/INFO]: BBEASTISHANK left the game
-[04:25:50] [Server thread/INFO]: Stopping the server
-[04:25:50] [Server thread/INFO]: Stopping server
-[04:25:50] [Server thread/INFO]: [LibreLogin] Disabling LibreLogin v0.23.0
-[04:25:50] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Shutdown initiated...
-[04:25:50] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Shutdown completed.
-[04:25:51] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
-[04:25:52] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 1080ms
-[04:25:52] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.2-SNAPSHOT
-[04:25:52] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[04:25:52] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[04:25:52] [Server thread/INFO]: Saving players
-[04:25:52] [Server thread/INFO]: Saving worlds
-[04:25:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:25:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:25:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:25:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:25:52] [Server thread/INFO]: [ChunkHolderManager] Saved 92 block chunks, 173 entity chunks, 0 poi chunks in world 'world' in 0.45s
-[04:25:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[04:25:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[04:25:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[limbo]'/minecraft:limbo
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'limbo'
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'limbo'
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'limbo'
-[04:25:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'limbo' in 0.00s
-[04:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (limbo): All chunks are saved
-[04:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:31:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:31:59] [ServerMain/INFO]: Loaded 1290 recipes
+[14:31:59] [ServerMain/INFO]: Loaded 1399 advancements
+[14:32:00] [Server thread/INFO]: Starting minecraft server version 1.21
+[14:32:00] [Server thread/INFO]: Loading properties
+[14:32:00] [Server thread/INFO]: This server is running Paper version 1.21-81-master@ceeb8c1 (2024-07-17T00:39:18Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[14:32:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:32:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:32:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and population gen parallelism of 2 threads
+[14:32:01] [Server thread/INFO]: Default game type: SURVIVAL
+[14:32:01] [Server thread/INFO]: Generating keypair
+[14:32:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:32:02] [Server thread/INFO]: Using epoll channel type
+[14:32:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:32:02] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[14:32:03] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.2-SNAPSHOT
+[14:32:06] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[14:32:06] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[14:32:06] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[14:32:06] [Server thread/INFO]: [LibreLogin] Loading server plugin LibreLogin v0.23.0
+[14:32:06] [Server thread/INFO]: [LibreLogin] Analyzing server setup...
+[14:32:06] [Server thread/INFO]: [LibreLogin] Detected Adventure-compatible server distribution - Paper 1.21-81-ceeb8c1 (MC: 1.21)
+[14:32:06] [Server thread/INFO]: [LibreLogin] Loading libraries...
+[14:32:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:32:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:32:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:32:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:32:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:32:09] [Server thread/INFO]: Preparing level "world"
+[14:32:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:32:11] [Server thread/INFO]: Time elapsed: 1152 ms
+[14:32:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:32:11] [Server thread/INFO]: Time elapsed: 286 ms
+[14:32:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:32:11] [Server thread/INFO]: Time elapsed: 108 ms
+[14:32:11] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.2-SNAPSHOT
+[14:32:12] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
+[14:32:12] [Server thread/INFO]: [LibreLogin] Enabling LibreLogin v0.23.0
+[14:32:12] [Server thread/INFO]: [LibreLogin] Bootstrapping LibreLogin...
+[14:32:12] [Server thread/INFO]: [LibreLogin] Loading messages...
+[14:32:13] [Server thread/INFO]: [LibreLogin] Loading configuration...
+[14:32:13] [Server thread/INFO]: [LibreLogin] Loading forbidden passwords...
+[14:32:14] [Server thread/INFO]: [LibreLogin] Loaded 984904 forbidden passwords
+[14:32:14] [Server thread/INFO]: [LibreLogin] Connecting to the database...
+[14:32:14] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Starting...
+[14:32:14] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.pool.HikariPool] LibreLogin SQLite Pool - Added connection org.sqlite.jdbc4.JDBC4Connection@b0a7156
+[14:32:14] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Start completed.
+[14:32:14] [Server thread/INFO]: [LibreLogin] Successfully connected to the database
+[14:32:14] [Server thread/INFO]: [LibreLogin] Validating schema
+[14:32:14] [Server thread/INFO]: [LibreLogin] Schema validated
+[14:32:14] [Server thread/INFO]: [LibreLogin] Found world file for limbo, loading...
+[14:32:14] [Server thread/INFO]: Preparing start region for dimension minecraft:limbo
+[14:32:14] [pool-17-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (42aad8401b73c52bb4edd11d9a73aa8a6e1619c1)
+[14:32:15] [Server thread/INFO]: Time elapsed: 116 ms
+[14:32:15] [Server thread/INFO]: [LibreLogin] [ACF] Enabled Asynchronous Tab Completion Support!
+[14:32:15] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:32:15] [Server thread/INFO]: [Geyser-Spigot] 
+[14:32:15] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.2-b658 (git-master-8356b63)
+[14:32:15] [Server thread/INFO]: [Geyser-Spigot] 
+[14:32:15] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:32:17] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[14:32:19] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[14:32:20] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[14:32:21] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console channel ID was invalid, not forwarding console output
+[14:32:21] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Saved linked accounts in 8ms
+[14:32:25] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[14:32:25] [Server thread/INFO]: [Geyser-Spigot] Done (10.265s)! Run /geyser help for help!
+[14:32:26] [Server thread/INFO]: Running delayed init tasks
+[14:32:26] [Server thread/INFO]: Done (25.829s)! For help, type "help"
+[14:32:26] [Server thread/INFO]: Timings Reset
+[14:32:26] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[14:32:26] [Craft Scheduler Thread - 1 - LibreLogin/INFO]: [LibreLogin] Checking for updates...
+[14:32:27] [Craft Scheduler Thread - 1 - LibreLogin/INFO]: [LibreLogin] You are running the latest version of LibreLogin
+[14:32:30] [Server thread/INFO]: Stopping the server
+[14:32:30] [Server thread/INFO]: Stopping server
+[14:32:30] [Server thread/INFO]: [LibreLogin] Disabling LibreLogin v0.23.0
+[14:32:30] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Shutdown initiated...
+[14:32:30] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Shutdown completed.
+[14:32:30] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[14:32:31] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 921ms
+[14:32:31] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.2-SNAPSHOT
+[14:32:31] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[14:32:31] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[14:32:31] [Server thread/INFO]: Saving players
+[14:32:32] [Server thread/INFO]: Saving worlds
+[14:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.28s
+[14:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.12s
+[14:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.07s
+[14:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[limbo]'/minecraft:limbo
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'limbo'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'limbo'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'limbo'
+[14:32:32] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'limbo' in 0.08s
+[14:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (limbo): All chunks are saved
+[14:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

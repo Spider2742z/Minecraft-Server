@@ -124,14 +124,14 @@ show-cooldown: title
 show-coordinates: true
 
 # Whether Bedrock players are blocked from performing their scaffolding-style bridging.
-disable-bedrock-scaffolding: false
+disable-bedrock-scaffolding: true
 
 # If set, when a Bedrock player performs any emote, it will swap the offhand and mainhand items, just like the Java Edition keybind
 # There are three options this can be set to:
 # disabled - the default/fallback, which doesn't apply this workaround
 # no-emotes - emotes will NOT be sent to other Bedrock clients and offhand will be swapped. This effectively disables all emotes from being seen.
 # emotes-and-offhand - emotes will be sent to Bedrock clients and offhand will be swapped
-emote-offhand-workaround: "disabled"
+emote-offhand-workaround: "no-emotes"
 
 # The default locale if we dont have the one the client requested. Uncomment to not use the default system language.
 # default-locale: en_us
@@ -160,7 +160,7 @@ add-non-bedrock-items: true
 # Bedrock prevents building and displaying blocks above Y127 in the Nether.
 # This config option works around that by changing the Nether dimension ID to the End ID. 
 # The main downside to this is that the entire Nether will have the same red fog rather than having different fog for each biome.
-above-bedrock-nether-building: false
+above-bedrock-nether-building: true
 
 # Force clients to load all resource packs if there are any.
 # If set to false, it allows the user to connect to the server even if they don't

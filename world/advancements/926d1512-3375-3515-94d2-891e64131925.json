@@ -206,6 +206,7 @@
       "cooked_beef": "2024-09-01 21:47:39 +0530",
       "baked_potato": "2024-08-29 22:40:49 +0530",
       "beef": "2024-09-01 22:00:55 +0530",
+      "porkchop": "2024-09-02 23:56:56 +0530",
       "golden_carrot": "2024-09-01 22:05:29 +0530",
       "apple": "2024-08-29 21:58:22 +0530",
       "spider_eye": "2024-09-02 17:35:44 +0530",
@@ -233,10 +234,12 @@
     "criteria": {
       "minecraft:pillager": "2024-09-01 22:25:48 +0530",
       "minecraft:skeleton": "2024-08-29 22:37:11 +0530",
+      "minecraft:piglin": "2024-09-03 00:32:54 +0530",
       "minecraft:enderman": "2024-08-31 01:39:05 +0530",
       "minecraft:spider": "2024-08-30 01:09:12 +0530",
       "minecraft:zombie": "2024-08-31 01:26:07 +0530",
-      "minecraft:drowned": "2024-08-29 22:07:18 +0530"
+      "minecraft:drowned": "2024-08-29 22:07:18 +0530",
+      "minecraft:hoglin": "2024-09-03 00:38:34 +0530"
     },
     "done": false
   },
@@ -1497,6 +1500,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2024-08-31 02:45:55 +0530",
+      "minecraft:wolf": "2024-09-03 23:36:16 +0530",
       "minecraft:sheep": "2024-08-31 02:41:37 +0530"
     },
     "done": false
@@ -2203,15 +2207,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_quartz": "2024-09-02 18:09:14 +0530"
+      "has_netherrack": "2024-09-02 17:32:14 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_quartz": "2024-09-02 18:09:14 +0530"
+      "has_golden_chestplate": "2024-09-02 17:33:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-09-02 17:33:07 +0530"
     },
     "done": true
   },
@@ -2221,12 +2231,6 @@
       "minecraft:nether_wastes": "2024-09-02 17:58:06 +0530"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_chestplate": "2024-09-02 17:33:07 +0530"
-    },
-    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -2240,9 +2244,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_golden_chestplate": "2024-09-02 17:33:07 +0530"
+      "has_quartz": "2024-09-02 18:09:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-09-02 18:09:14 +0530"
     },
     "done": true
   },
@@ -2258,12 +2268,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-09-02 17:32:14 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-09-02 18:09:14 +0530"
@@ -2273,6 +2277,126 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-09-02 18:09:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-09-03 00:05:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-09-03 00:06:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-03 00:11:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-03 00:11:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-09-03 00:21:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-09-03 00:25:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-09-03 00:25:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-09-03 00:25:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-09-03 00:25:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-09-03 00:25:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-09-03 00:25:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-09-03 00:25:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-09-03 00:25:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-09-03 00:25:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-03 00:55:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-03 00:55:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-09-03 15:04:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-09-03 21:40:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-09-03 21:40:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-09-03 21:49:18 +0530"
     },
     "done": true
   },

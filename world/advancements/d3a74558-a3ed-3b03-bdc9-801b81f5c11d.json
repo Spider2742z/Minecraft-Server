@@ -477,7 +477,8 @@
       "minecraft:enderman": "2024-08-31 02:47:55 +0530",
       "minecraft:spider": "2024-08-30 00:24:47 +0530",
       "minecraft:zombie": "2024-08-30 00:05:12 +0530",
-      "minecraft:creeper": "2024-09-02 17:55:32 +0530"
+      "minecraft:creeper": "2024-09-02 17:55:32 +0530",
+      "minecraft:hoglin": "2024-09-02 23:14:03 +0530"
     },
     "done": false
   },
@@ -1955,6 +1956,54 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-09-02 17:55:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-02 23:15:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-02 23:15:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_the_recipe": "2024-09-02 23:23:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-09-02 23:23:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-09-03 00:12:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-09-03 00:12:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-09-03 22:44:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-09-03 22:40:31 +0530"
     },
     "done": true
   },

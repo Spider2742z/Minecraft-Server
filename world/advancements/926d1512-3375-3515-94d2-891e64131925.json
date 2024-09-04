@@ -213,6 +213,7 @@
       "cooked_chicken": "2024-09-01 01:27:10 +0530",
       "potato": "2024-08-29 22:07:31 +0530",
       "cooked_cod": "2024-09-01 02:20:58 +0530",
+      "poisonous_potato": "2024-09-04 13:51:28 +0530",
       "cooked_salmon": "2024-09-01 02:15:01 +0530",
       "carrot": "2024-08-31 02:47:14 +0530"
     },
@@ -2397,6 +2398,54 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-09-03 21:49:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-09-04 12:54:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-09-04 12:54:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-09-04 13:11:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-09-04 13:18:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-09-04 13:18:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-09-04 21:30:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-09-04 21:26:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-09-04 21:26:08 +0530"
     },
     "done": true
   },

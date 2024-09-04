@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#BBI Sun Ye Github mai work nahi karta kyuki github screen allow nahi karta tu ek bar try kar liyo
 # Define the path to the Minecraft server and Git repository
 SERVER_START_COMMAND="./start_server.sh"  # Replace with your server start command
 SESSION_NAME="minecraft_server"
@@ -35,4 +36,3 @@ if screen -list | grep -q "$SESSION_NAME"; then
             git push
 
             echo "Git operations completed."
-            

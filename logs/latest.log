@@ -143,3 +143,13 @@ java.lang.IllegalArgumentException: null
 [23:02:10] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
 [23:02:10] [Craft Scheduler Thread - 4 - LibreLogin/INFO]: [LibreLogin] Checking for updates...
 [23:02:10] [Craft Scheduler Thread - 4 - LibreLogin/INFO]: [LibreLogin] You are running the latest version of LibreLogin
+[23:03:15] [User Authenticator #0/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[23:03:18] [Server thread/INFO]: BBEASTISHANK joined the game
+[23:03:19] [Server thread/INFO]: BBEASTISHANK[/127.204.201.27:52305] logged in with entity id 300 at ([limbo]0.0, 70.0, 0.0)
+[23:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[23:03:33] [Server thread/INFO]: Made BBEASTISHANK a server operator
+[23:03:37] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode spectator
+[23:03:37] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Spectator Mode]
+[23:03:45] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Survival Mode]
+[23:03:51] [Server thread/INFO]: BBEASTISHANK issued server command: /deop BBEASTISHANK
+[23:03:51] [Server thread/INFO]: [BBEASTISHANK: Made BBEASTISHANK no longer a server operator]

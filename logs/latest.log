@@ -338,3 +338,46 @@ java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have mem
 [01:10:18] [Server thread/INFO]: BBEASTISHANK was slain by Zombie
 [01:39:52] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
 [01:39:52] [Server thread/INFO]: BBEASTISHANK left the game
+[01:59:42] [Server thread/INFO]: Stopping the server
+[01:59:42] [Server thread/INFO]: Stopping server
+[01:59:42] [Server thread/INFO]: [LibsDisguises] Disabling LibsDisguises v10.0.44-SNAPSHOT
+[01:59:42] [Server thread/INFO]: [LibreLogin] Disabling LibreLogin v0.23.0
+[01:59:42] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Shutdown initiated...
+[01:59:42] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Shutdown completed.
+[01:59:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.3
+[01:59:42] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[01:59:43] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 1165ms
+[01:59:43] [Server thread/INFO]: [packetevents] Disabling packetevents v2.5.0+99acbe496-SNAPSHOT
+[01:59:43] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[01:59:43] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.3-SNAPSHOT
+[01:59:43] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:59:43] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:59:43] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[01:59:43] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:59:43] [Server thread/INFO]: Saving players
+[01:59:43] [Server thread/INFO]: Saving worlds
+[01:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 96 entity chunks, 0 poi chunks in world 'world' in 0.06s
+[01:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 27 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[01:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 19 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[01:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[limbo]'/minecraft:limbo
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'limbo'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'limbo'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'limbo'
+[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'limbo' in 0.00s
+[01:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (limbo): All chunks are saved
+[01:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

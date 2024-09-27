@@ -124,3 +124,13 @@ java.lang.IllegalArgumentException: null
 [23:01:28] [Server thread/INFO]: [LibsDisguises] Config 'TallSelfDisguises' is set to 'false', LD will hide oversized disguises from self disguise. https://www.spigotmc.org/wiki/lib-s-disguises-faq/#tall-disguises-self-disguises
 [23:01:36] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
 [23:01:40] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[23:01:43] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[23:01:43] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console channel ID was invalid, not forwarding console output
+[23:01:44] [Server thread/INFO]: [LibsDisguises] Loaded custom disguise libraryaddict
+[23:01:44] [Server thread/INFO]: [LibsDisguises] Loaded 1 custom disguise
+[23:01:44] [Server thread/INFO]: [LibsDisguises] Config is up to date!
+[23:01:45] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:01:45] [Server thread/INFO]: [Geyser-Spigot] 
+[23:01:45] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.3-b680 (git-master-84dac08)
+[23:01:45] [Server thread/INFO]: [Geyser-Spigot] 
+[23:01:45] [Server thread/INFO]: [Geyser-Spigot] ******************************************

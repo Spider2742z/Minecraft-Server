@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Setting ssh session for pass based key
-eval $(ssh-agent -s)
-
 # Set the interval (in seconds)
 interval=300
 

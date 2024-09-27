@@ -134,3 +134,12 @@ java.lang.IllegalArgumentException: null
 [23:01:45] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.3-b680 (git-master-84dac08)
 [23:01:45] [Server thread/INFO]: [Geyser-Spigot] 
 [23:01:45] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:02:09] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[23:02:09] [Server thread/INFO]: [Geyser-Spigot] Done (23.512s)! Run /geyser help for help!
+[23:02:09] [Server thread/INFO]: Running delayed init tasks
+[23:02:09] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[23:02:09] [Server thread/INFO]: Done (103.237s)! For help, type "help"
+[23:02:09] [Server thread/INFO]: Timings Reset
+[23:02:10] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[23:02:10] [Craft Scheduler Thread - 4 - LibreLogin/INFO]: [LibreLogin] Checking for updates...
+[23:02:10] [Craft Scheduler Thread - 4 - LibreLogin/INFO]: [LibreLogin] You are running the latest version of LibreLogin

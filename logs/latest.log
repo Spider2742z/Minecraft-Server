@@ -1,33 +1,177 @@
-[00:01:10] [Async Chat Thread - #10/INFO]: [Not Secure] <ajha1304> hehe
-[00:01:42] [Server thread/WARN]: ajha1304 moved wrongly!
-[00:01:48] [Server thread/INFO]: ajha1304 was doomed to fall by BBEASTISHANK
-[00:02:37] [Server thread/INFO]: ajha1304 fell from a high place
-[00:02:51] [Server thread/WARN]: ajha1304 moved wrongly!
-[00:03:22] [Server thread/INFO]: ajha1304 fell from a high place
-[00:06:09] [Async Chat Thread - #12/INFO]: [Not Secure] <ajha1304> ruk vc leave hogya
-[00:06:13] [Async Chat Thread - #12/INFO]: [Not Secure] <BBEASTISHANK> ok
-[00:06:18] [localSession-7-2/INFO]: [Geyser-Spigot] ajha1304 has disconnected from the Java server because of Bedrock client disconnected
-[00:06:18] [Server thread/INFO]: ajha1304 lost connection: Disconnected
-[00:06:18] [Server thread/INFO]: ajha1304 left the game
-[00:07:04] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ajha1304
-[00:07:04] [localSession-7-3/INFO]: [Geyser-Spigot] ajha1304 (logged in as: ajha1304) has connected to the Java server
-[00:07:05] [User Authenticator #3/INFO]: UUID of player ajha1304 is 926d1512-3375-3515-94d2-891e64131925
-[00:07:05] [Server thread/INFO]: ajha1304 joined the game
-[00:07:05] [Server thread/INFO]: ajha1304[/127.205.17.78:0] logged in with entity id 8304 at ([limbo]0.0, 70.0, 0.0)
-[00:09:57] [Async Chat Thread - #14/INFO]: [Not Secure] <ajha1304> nice idea
-[00:10:03] [Async Chat Thread - #14/INFO]: [Not Secure] <ajha1304> yes
-[00:10:08] [Async Chat Thread - #14/INFO]: [Not Secure] <ajha1304> 1.25lakh
-[00:12:28] [Async Chat Thread - #16/INFO]: [Not Secure] <ajha1304> yes gps to lena padega
-[00:13:35] [Async Chat Thread - #18/INFO]: [Not Secure] <ajha1304> bhai agar dhabg ka lega to 3 keliye 6000 khrcha kar
-[00:19:55] [Server thread/INFO]: ajha1304 fell from a high place
-[00:25:41] [Async Chat Thread - #20/INFO]: [Not Secure] <ajha1304> bye bye good night
-[00:26:40] [localSession-7-3/INFO]: [Geyser-Spigot] ajha1304 has disconnected from the Java server because of Bedrock client timed out
-[00:26:40] [Server thread/INFO]: ajha1304 lost connection: Disconnected
-[00:26:40] [Server thread/INFO]: ajha1304 left the game
-[00:33:56] [Server thread/ERROR]: Could not pass event ExplosionPrimeEvent to ViaVersion v5.0.3
+[14:04:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:05:00] [ServerMain/INFO]: Loaded 1290 recipes
+[14:05:00] [ServerMain/INFO]: Loaded 1399 advancements
+[14:05:00] [Server thread/INFO]: Starting minecraft server version 1.21
+[14:05:00] [Server thread/INFO]: Loading properties
+[14:05:00] [Server thread/INFO]: This server is running Paper version 1.21-81-master@ceeb8c1 (2024-07-17T00:39:18Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[14:05:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:05:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:05:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and population gen parallelism of 2 threads
+[14:05:02] [Server thread/INFO]: Default game type: SURVIVAL
+[14:05:02] [Server thread/INFO]: Generating keypair
+[14:05:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:05:02] [Server thread/INFO]: Using epoll channel type
+[14:05:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:05:02] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[14:05:05] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
+[14:05:05] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
+[14:05:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[14:05:08] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[14:05:09] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[14:05:09] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[14:05:11] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.3-SNAPSHOT
+[14:05:13] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[14:05:13] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[14:05:13] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[14:05:13] [Server thread/INFO]: [packetevents] Loading server plugin packetevents v2.5.0+99acbe496-SNAPSHOT
+[14:05:18] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[14:05:18] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
+[14:05:18] [Server thread/INFO]: [LibreLogin] Loading server plugin LibreLogin v0.23.0
+[14:05:18] [Server thread/INFO]: [LibreLogin] Analyzing server setup...
+[14:05:18] [Server thread/INFO]: [LibreLogin] Detected Adventure-compatible server distribution - Paper 1.21-81-ceeb8c1 (MC: 1.21)
+[14:05:18] [Server thread/INFO]: [LibreLogin] Loading libraries...
+[14:05:23] [Server thread/INFO]: [LibsDisguises] Loading server plugin LibsDisguises v10.0.44-SNAPSHOT
+[14:05:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:05:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
+[14:05:25] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[14:05:26] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[14:05:27] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[14:05:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:05:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:05:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:05:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:05:27] [Server thread/INFO]: Preparing level "world"
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[14:05:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[14:05:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:05:29] [Server thread/INFO]: Time elapsed: 1785 ms
+[14:05:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:05:30] [Server thread/INFO]: Time elapsed: 715 ms
+[14:05:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:05:30] [Server thread/INFO]: Time elapsed: 385 ms
+[14:05:30] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
+[14:05:30] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
+[14:05:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.3-SNAPSHOT
+[14:05:31] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[14:05:31] [Server thread/INFO]: [packetevents] Enabling packetevents v2.5.0+99acbe496-SNAPSHOT
+[14:05:31] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
+[14:05:32] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
+[14:05:32] [Server thread/ERROR]: Fatal error trying to convert DiscordSRV v1.28.0:net/md_5/bungee/api/chat/TranslatableComponentDeserializer.class
+java.lang.IllegalArgumentException: null
+	at org.objectweb.asm.signature.SignatureReader.parseType(SignatureReader.java:249) ~[asm-9.7.jar:9.7]
+	at org.objectweb.asm.signature.SignatureReader.accept(SignatureReader.java:122) ~[asm-9.7.jar:9.7]
+	at org.objectweb.asm.commons.Remapper.mapSignature(Remapper.java:215) ~[asm-commons-9.7.jar:9.7]
+	at org.objectweb.asm.commons.ClassRemapper.visit(ClassRemapper.java:106) ~[asm-commons-9.7.jar:9.7]
+	at org.objectweb.asm.ClassReader.accept(ClassReader.java:570) ~[asm-9.7.jar:9.7]
+	at org.objectweb.asm.ClassReader.accept(ClassReader.java:425) ~[asm-9.7.jar:9.7]
+	at org.bukkit.craftbukkit.util.Commodore.convert(Commodore.java:179) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.processClass(CraftMagicNumbers.java:410) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:220) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:169) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at DiscordSRV-Build-1.28.0.jar/github.scarsz.discordsrv.DiscordSRV.onEnable(DiscordSRV.java) ~[DiscordSRV-Build-1.28.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:629) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:578) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:753) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:515) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:327) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1211) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
+	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
+[14:05:32] [packetevents-update-check-thread/INFO]: [packetevents] There is an update available for PacketEvents! Your build: (2.5.0+99acbe496-SNAPSHOT) | Latest release: (2.5.0)
+[14:05:36] [Server thread/INFO]: [LibreLogin] Enabling LibreLogin v0.23.0
+[14:05:36] [Server thread/INFO]: [LibreLogin] Bootstrapping LibreLogin...
+[14:05:37] [Server thread/INFO]: [LibreLogin] Loading messages...
+[14:05:37] [Server thread/INFO]: [LibreLogin] Loading configuration...
+[14:05:37] [Server thread/INFO]: [LibreLogin] Loading forbidden passwords...
+[14:05:38] [Server thread/INFO]: [LibreLogin] Loaded 984904 forbidden passwords
+[14:05:38] [Server thread/INFO]: [LibreLogin] Connecting to the database...
+[14:05:38] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Starting...
+[14:05:39] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.pool.HikariPool] LibreLogin SQLite Pool - Added connection org.sqlite.jdbc4.JDBC4Connection@2432d0e5
+[14:05:39] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Start completed.
+[14:05:39] [Server thread/INFO]: [LibreLogin] Successfully connected to the database
+[14:05:39] [Server thread/INFO]: [LibreLogin] Validating schema
+[14:05:39] [Server thread/INFO]: [LibreLogin] Schema validated
+[14:05:39] [Server thread/INFO]: [LibreLogin] Found world file for limbo, loading...
+[14:05:39] [Server thread/INFO]: Preparing start region for dimension minecraft:limbo
+[14:05:39] [Server thread/INFO]: Time elapsed: 266 ms
+[14:05:40] [Server thread/INFO]: [LibreLogin] [ACF] Enabled Asynchronous Tab Completion Support!
+[14:05:41] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v10.0.44-SNAPSHOT
+[14:05:41] [Server thread/INFO]: [LibsDisguises] File Name: LibsDisguises.jar
+[14:05:41] [Server thread/INFO]: [LibsDisguises] Discovered nms version: (Package: {Not package relocated}) (LD: v1_21_R1) (MC: 1.21)
+[14:05:41] [Server thread/INFO]: [LibsDisguises] Jenkins Build: #1448
+[14:05:41] [Server thread/INFO]: [LibsDisguises] Build Date: 17/09/2024 11:15
+[14:05:41] [Server thread/INFO]: [LibsDisguises] If you own the plugin, place the premium jar downloaded from https://www.spigotmc.org/resources/libs-disguises.32453/ in plugins/LibsDisguises/
+[14:05:41] [Server thread/INFO]: [LibsDisguises] You are running the free version, commands limited to non-players and operators. (Console, Command Blocks, Admins)
+[14:05:41] [Server thread/INFO]: [LibsDisguises] Config 'TallSelfDisguises' is set to 'false', LD will hide oversized disguises from self disguise. https://www.spigotmc.org/wiki/lib-s-disguises-faq/#tall-disguises-self-disguises
+[14:05:43] [pool-23-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (42aad8401b73c52bb4edd11d9a73aa8a6e1619c1)
+[14:05:53] [Server thread/INFO]: [LibsDisguises] Loaded custom disguise libraryaddict
+[14:05:53] [Server thread/INFO]: [LibsDisguises] Loaded 1 custom disguise
+[14:05:53] [Server thread/INFO]: [LibsDisguises] Config is up to date!
+[14:05:55] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:05:55] [Server thread/INFO]: [Geyser-Spigot] 
+[14:05:55] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.3-b680 (git-master-84dac08)
+[14:05:55] [Server thread/INFO]: [Geyser-Spigot] 
+[14:05:55] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:05:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[14:06:01] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[14:06:04] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[14:06:05] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console channel ID was invalid, not forwarding console output
+[14:06:22] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[14:06:22] [Server thread/INFO]: [Geyser-Spigot] Done (27.377s)! Run /geyser help for help!
+[14:06:23] [Server thread/INFO]: Running delayed init tasks
+[14:06:23] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[14:06:23] [Server thread/INFO]: Done (82.434s)! For help, type "help"
+[14:06:23] [Server thread/INFO]: Timings Reset
+[14:06:23] [Craft Scheduler Thread - 5 - LibreLogin/INFO]: [LibreLogin] Checking for updates...
+[14:06:24] [Craft Scheduler Thread - 5 - LibreLogin/INFO]: [LibreLogin] You are running the latest version of LibreLogin
+[14:06:27] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[14:06:47] [User Authenticator #0/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[14:06:51] [Server thread/INFO]: BBEASTISHANK joined the game
+[14:06:52] [Server thread/INFO]: BBEASTISHANK[/127.98.104.52:46255] logged in with entity id 300 at ([limbo]0.0, 70.0, 0.0)
+[14:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
+[14:17:41] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[14:17:41] [Server thread/INFO]: BBEASTISHANK left the game
+[14:17:44] [User Authenticator #1/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[14:17:45] [Server thread/INFO]: BBEASTISHANK joined the game
+[14:17:45] [Server thread/INFO]: BBEASTISHANK[/127.98.104.52:56401] logged in with entity id 2053 at ([limbo]0.0, 70.0, 0.0)
+[14:17:52] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[14:17:52] [Server thread/INFO]: BBEASTISHANK left the game
+[14:17:55] [User Authenticator #1/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[14:17:56] [Server thread/INFO]: BBEASTISHANK joined the game
+[14:17:56] [Server thread/INFO]: BBEASTISHANK[/127.98.104.52:57723] logged in with entity id 2100 at ([limbo]0.0, 70.0, 0.0)
+[14:18:05] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[14:18:05] [Server thread/INFO]: BBEASTISHANK left the game
+[14:18:08] [User Authenticator #1/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[14:18:09] [Server thread/INFO]: BBEASTISHANK joined the game
+[14:18:09] [Server thread/INFO]: BBEASTISHANK[/127.98.104.52:39429] logged in with entity id 2145 at ([limbo]0.0, 70.0, 0.0)
+[14:25:35] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[14:25:35] [Server thread/INFO]: BBEASTISHANK left the game
+[14:30:46] [User Authenticator #2/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[14:30:48] [Server thread/INFO]: BBEASTISHANK joined the game
+[14:30:48] [Server thread/INFO]: BBEASTISHANK[/127.98.104.52:44135] logged in with entity id 3460 at ([limbo]0.0, 70.0, 0.0)
+[14:49:44] [Server thread/INFO]: Applied enchantment Aqua Affinity to BBEASTISHANK's item
+[14:53:44] [Server thread/ERROR]: Could not pass event ExplosionPrimeEvent to DiscordSRV v1.28.0
 java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
 	at a.cs.onEntityExplode() ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor13.execute(Unknown Source) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor26.execute(Unknown Source) ~[?:?]
 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-81-ceeb8c1]
 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
@@ -48,10 +192,10 @@ java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have mem
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:33:56] [Server thread/ERROR]: Could not pass event ExplosionPrimeEvent to ViaBackwards v5.0.3
+[14:53:44] [Server thread/ERROR]: Could not pass event ExplosionPrimeEvent to ViaVersion v5.0.3
 java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
 	at a.cs.onEntityExplode() ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor38.execute(Unknown Source) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor27.execute(Unknown Source) ~[?:?]
 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-81-ceeb8c1]
 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
@@ -72,7 +216,7 @@ java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have mem
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:33:56] [Server thread/ERROR]: Could not pass event ExplosionPrimeEvent to DiscordSRV v1.28.0
+[14:53:44] [Server thread/ERROR]: Could not pass event ExplosionPrimeEvent to ViaBackwards v5.0.3
 java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
 	at a.cs.onEntityExplode() ~[?:?]
 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor57.execute(Unknown Source) ~[?:?]
@@ -96,10 +240,10 @@ java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have mem
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:33:56] [Server thread/ERROR]: Could not pass event EntityExplodeEvent to ViaVersion v5.0.3
+[14:53:44] [Server thread/ERROR]: Could not pass event EntityExplodeEvent to ViaVersion v5.0.3
 java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
 	at a.bp.a() ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor23.execute(Unknown Source) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor42.execute(Unknown Source) ~[?:?]
 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-81-ceeb8c1]
 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
@@ -123,7 +267,7 @@ java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have mem
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:33:56] [Server thread/ERROR]: Could not pass event EntityExplodeEvent to ViaBackwards v5.0.3
+[14:53:44] [Server thread/ERROR]: Could not pass event EntityExplodeEvent to DiscordSRV v1.28.0
 java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
 	at a.bp.a() ~[?:?]
 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor48.execute(Unknown Source) ~[?:?]
@@ -150,10 +294,10 @@ java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have mem
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:33:56] [Server thread/ERROR]: Could not pass event EntityExplodeEvent to DiscordSRV v1.28.0
+[14:53:44] [Server thread/ERROR]: Could not pass event EntityExplodeEvent to ViaBackwards v5.0.3
 java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
 	at a.bp.a() ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor67.execute(Unknown Source) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor66.execute(Unknown Source) ~[?:?]
 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-81-ceeb8c1]
 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
@@ -177,207 +321,108 @@ java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have mem
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
 	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:34:05] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
-[00:34:05] [Server thread/INFO]: BBEASTISHANK left the game
-[00:50:09] [User Authenticator #4/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
-[00:50:10] [Server thread/INFO]: BBEASTISHANK joined the game
-[00:50:10] [Server thread/INFO]: BBEASTISHANK[/127.204.201.27:38551] logged in with entity id 11236 at ([limbo]0.0, 70.0, 0.0)
-[00:57:50] [Server thread/ERROR]: Could not pass event ExplosionPrimeEvent to ViaVersion v5.0.3
-java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
-	at a.cs.onEntityExplode() ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor13.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.event.CraftEventFactory.callExplosionPrimeEvent(CraftEventFactory.java:2096) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.explodeCreeper(Creeper.java:270) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.tick(Creeper.java:164) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1272) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1420) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:761) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:741) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1801) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1593) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:57:50] [Server thread/ERROR]: Could not pass event ExplosionPrimeEvent to ViaBackwards v5.0.3
-java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
-	at a.cs.onEntityExplode() ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor38.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.event.CraftEventFactory.callExplosionPrimeEvent(CraftEventFactory.java:2096) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.explodeCreeper(Creeper.java:270) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.tick(Creeper.java:164) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1272) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1420) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:761) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:741) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1801) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1593) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:57:50] [Server thread/ERROR]: Could not pass event ExplosionPrimeEvent to DiscordSRV v1.28.0
-java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
-	at a.cs.onEntityExplode() ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor57.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.event.CraftEventFactory.callExplosionPrimeEvent(CraftEventFactory.java:2096) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.explodeCreeper(Creeper.java:270) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.tick(Creeper.java:164) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1272) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1420) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:761) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:741) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1801) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1593) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:57:50] [Server thread/ERROR]: Could not pass event EntityExplodeEvent to ViaVersion v5.0.3
-java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
-	at a.bp.a() ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor23.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.world.level.Explosion.finalizeExplosion(Explosion.java:672) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.explode(Level.java:1511) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1802) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.explode(Level.java:1464) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.explodeCreeper(Creeper.java:274) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.tick(Creeper.java:164) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1272) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1420) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:761) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:741) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1801) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1593) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:57:50] [Server thread/ERROR]: Could not pass event EntityExplodeEvent to ViaBackwards v5.0.3
-java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
-	at a.bp.a() ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor48.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.world.level.Explosion.finalizeExplosion(Explosion.java:672) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.explode(Level.java:1511) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1802) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.explode(Level.java:1464) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.explodeCreeper(Creeper.java:274) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.tick(Creeper.java:164) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1272) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1420) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:761) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:741) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1801) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1593) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[00:57:50] [Server thread/ERROR]: Could not pass event EntityExplodeEvent to DiscordSRV v1.28.0
-java.lang.NoSuchFieldError: Class org.bukkit.entity.EntityType does not have member field 'org.bukkit.entity.EntityType PRIMED_TNT'
-	at a.bp.a() ~[?:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor67.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.world.level.Explosion.finalizeExplosion(Explosion.java:672) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.explode(Level.java:1511) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1802) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.explode(Level.java:1464) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.explodeCreeper(Creeper.java:274) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.entity.monster.Creeper.tick(Creeper.java:164) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1272) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.Level.guardEntityTick(Level.java:1420) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:761) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:741) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1801) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1593) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-81-ceeb8c1]
-	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
-[01:10:18] [Server thread/INFO]: BBEASTISHANK was slain by Zombie
-[01:39:52] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
-[01:39:52] [Server thread/INFO]: BBEASTISHANK left the game
-[01:59:42] [Server thread/INFO]: Stopping the server
-[01:59:42] [Server thread/INFO]: Stopping server
-[01:59:42] [Server thread/INFO]: [LibsDisguises] Disabling LibsDisguises v10.0.44-SNAPSHOT
-[01:59:42] [Server thread/INFO]: [LibreLogin] Disabling LibreLogin v0.23.0
-[01:59:42] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Shutdown initiated...
-[01:59:42] [Server thread/INFO]: [xyz.kyngs.librelogin.lib.hikari.HikariDataSource] LibreLogin SQLite Pool - Shutdown completed.
-[01:59:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.3
-[01:59:42] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
-[01:59:43] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 1165ms
-[01:59:43] [Server thread/INFO]: [packetevents] Disabling packetevents v2.5.0+99acbe496-SNAPSHOT
-[01:59:43] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
-[01:59:43] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.3-SNAPSHOT
-[01:59:43] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[01:59:43] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[01:59:43] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
-[01:59:43] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[01:59:43] [Server thread/INFO]: Saving players
-[01:59:43] [Server thread/INFO]: Saving worlds
-[01:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 96 entity chunks, 0 poi chunks in world 'world' in 0.06s
-[01:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 27 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
-[01:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 19 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[01:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[limbo]'/minecraft:limbo
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'limbo'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'limbo'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'limbo'
-[01:59:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'limbo' in 0.00s
-[01:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (limbo): All chunks are saved
-[01:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:53:57] [Server thread/INFO]: The difficulty has been set to Hard
+[15:14:59] [Server thread/INFO]: BBEASTISHANK was doomed to fall by Zombie
+[15:35:02] [Server thread/INFO]: BBEASTISHANK was slain by Zombie
+[16:15:00] [Server thread/INFO]: BBEASTISHANK was slain by Zombie
+[16:15:34] [Server thread/INFO]: BBEASTISHANK was slain by Zombie
+[16:16:51] [Server thread/INFO]: Made BBEASTISHANK a server operator
+[16:17:02] [Server thread/INFO]: BBEASTISHANK issued server command: /effect give BBEASTISHANK minecraft:strength
+[16:17:02] [Server thread/INFO]: [BBEASTISHANK: Applied effect Strength to BBEASTISHANK]
+[16:17:08] [Server thread/INFO]: BBEASTISHANK issued server command: /effect give BBEASTISHANK minecraft:strength infinite 255
+[16:17:08] [Server thread/INFO]: [BBEASTISHANK: Applied effect Strength to BBEASTISHANK]
+[16:17:13] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode spectator
+[16:17:13] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Spectator Mode]
+[16:17:17] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Survival Mode]
+[16:17:23] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode creative
+[16:17:23] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Creative Mode]
+[16:19:50] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Netherite Helmet] to BBEASTISHANK]
+[16:20:15] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Netherite Chestplate] to BBEASTISHANK]
+[16:20:41] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Netherite Leggings] to BBEASTISHANK]
+[16:21:22] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Netherite Boots] to BBEASTISHANK]
+[16:22:03] [User Authenticator #3/INFO]: UUID of player chewbacca is 9407f56d-0cdc-3cbb-b6c0-705faec1a57d
+[16:22:04] [Server thread/INFO]: chewbacca joined the game
+[16:22:04] [Server thread/INFO]: chewbacca[/127.127.214.17:37417] logged in with entity id 12856 at ([limbo]0.0, 70.0, 0.0)
+[16:22:17] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Netherite Sword] to BBEASTISHANK]
+[16:22:30] [Async Chat Thread - #0/INFO]: [Not Secure] <chewbacca> bbi tp me to house
+[16:22:46] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Bow] to BBEASTISHANK]
+[16:23:15] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Trident] to BBEASTISHANK]
+[16:25:11] [Server thread/INFO]: BBEASTISHANK issued server command: /tp @a BBEASTISHANK
+[16:25:11] [Server thread/INFO]: [BBEASTISHANK: Teleported 2 entities to BBEASTISHANK]
+[16:25:34] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Survival Mode]
+[16:25:47] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[16:25:47] [Server thread/INFO]: BBEASTISHANK left the game
+[16:25:50] [User Authenticator #4/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[16:25:51] [Server thread/INFO]: BBEASTISHANK joined the game
+[16:25:51] [Server thread/INFO]: BBEASTISHANK[/127.98.104.52:50121] logged in with entity id 13906 at ([limbo]0.0, 70.0, 0.0)
+[16:26:01] [Server thread/INFO]: [BBEASTISHANK: Removed every effect from BBEASTISHANK]
+[16:26:31] [Server thread/INFO]: BBEASTISHANK issued server command: /spawnpoint
+[16:26:31] [Server thread/INFO]: [BBEASTISHANK: Set spawn point to -27, 71, 174 [0.0] in minecraft:overworld for BBEASTISHANK]
+[16:26:36] [Server thread/INFO]: BBEASTISHANK was killed
+[16:26:36] [Server thread/INFO]: [BBEASTISHANK: Killed BBEASTISHANK]
+[16:26:42] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode creative
+[16:26:42] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Creative Mode]
+[16:27:49] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Netherite Axe] to BBEASTISHANK]
+[16:28:30] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Netherite Hoe] to BBEASTISHANK]
+[16:29:03] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [SilkPickey] to BBEASTISHANK]
+[16:29:14] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Netherite Pickaxe] to BBEASTISHANK]
+[16:29:35] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [SilkShove] to BBEASTISHANK]
+[16:29:45] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [SilkShove] to BBEASTISHANK]
+[16:29:57] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Netherite Shovel] to BBEASTISHANK]
+[16:35:28] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Survival Mode]
+[16:35:54] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode creative
+[16:35:54] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Creative Mode]
+[16:36:16] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Survival Mode]
+[16:36:18] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode creative
+[16:36:18] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Creative Mode]
+[16:38:08] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Survival Mode]
+[16:38:23] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode creative
+[16:38:23] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Creative Mode]
+[16:39:19] [Server thread/INFO]: [BBEASTISHANK: Gave 1 [Elytra] to BBEASTISHANK]
+[16:39:35] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Survival Mode]
+[16:39:40] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode creative
+[16:39:40] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Creative Mode]
+[16:39:45] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Survival Mode]
+[16:41:14] [Async Chat Thread - #1/INFO]: [Not Secure] <chewbacca> idhar aa
+[16:41:18] [Async Chat Thread - #1/INFO]: [Not Secure] <BBEASTISHANK> 1 SEC
+[16:42:16] [Async Chat Thread - #1/INFO]: [Not Secure] <BBEASTISHANK> BOL
+[16:42:48] [Async Chat Thread - #1/INFO]: [Not Secure] <BBEASTISHANK> l
+[16:52:36] [Async Chat Thread - #3/INFO]: [Not Secure] <BBEASTISHANK> DEKH BHAI PURA PATH BNA DIE
+[16:54:23] [Async Chat Thread - #5/INFO]: [Not Secure] <BBEASTISHANK> 10 DIAMOND KE BADLE 1 STACK COAL?
+[16:54:23] [Async Chat Thread - #5/INFO]: [Not Secure] <chewbacca> BYE
+[16:54:35] [Async Chat Thread - #5/INFO]: [Not Secure] <chewbacca> kya?
+[16:54:41] [Async Chat Thread - #5/INFO]: [Not Secure] <BBEASTISHANK> 15 DIAMOND KE BADLE 1 STACK COAL
+[16:54:53] [Async Chat Thread - #5/INFO]: [Not Secure] <chewbacca> ujhe diamond chhiye ya coal
+[16:55:02] [Async Chat Thread - #5/INFO]: [Not Secure] <BBEASTISHANK> COAL CHAI MERE KO
+[16:55:08] [Async Chat Thread - #6/INFO]: [Not Secure] <chewbacca> 15
+[16:55:19] [Async Chat Thread - #6/INFO]: [Not Secure] <BBEASTISHANK> 15 DDIAMOND DENGE HUM TUM MERE KO 1 STACK COAL DENA
+[16:55:28] [Async Chat Thread - #6/INFO]: [Not Secure] <chewbacca> ok
+[16:55:35] [Async Chat Thread - #6/INFO]: [Not Secure] <BBEASTISHANK> ANKIT KA GHER
+[16:56:16] [Async Chat Thread - #6/INFO]: [Not Secure] <BBEASTISHANK> TU KHA PE HAI/
+[16:56:21] [Async Chat Thread - #6/INFO]: [Not Secure] <BBEASTISHANK> AAPNE HOUSE ME?
+[16:56:23] [Async Chat Thread - #6/INFO]: [Not Secure] <BBEASTISHANK> JAIPUR KAB AIGA
+[16:56:25] [Async Chat Thread - #6/INFO]: [Not Secure] <chewbacca> piche
+[16:56:30] [Async Chat Thread - #6/INFO]: [Not Secure] <BBEASTISHANK> LODU
+[16:56:31] [Async Chat Thread - #6/INFO]: [Not Secure] <chewbacca> 3rd
+[16:56:37] [Async Chat Thread - #6/INFO]: [Not Secure] <BBEASTISHANK> matlab aaj free hai na
+[16:56:40] [Async Chat Thread - #6/INFO]: [Not Secure] <BBEASTISHANK> headphoen aa
+[16:56:43] [Async Chat Thread - #6/INFO]: [Not Secure] <BBEASTISHANK> and vc me aja
+[16:56:46] [Async Chat Thread - #6/INFO]: [Not Secure] <BBEASTISHANK> mere ko lga packing kr rha hoga
+[16:57:57] [Async Chat Thread - #7/INFO]: [Not Secure] <chewbacca> packing hi krn ja rha hun
+[16:58:04] [Async Chat Thread - #7/INFO]: [Not Secure] <BBEASTISHANK> tusi na jao
+[16:58:31] [Async Chat Thread - #7/INFO]: [Not Secure] <chewbacca> abhi saman lene jaana hai
+[16:58:35] [Server thread/INFO]: BBEASTISHANK issued server command: /gamemode creative
+[16:58:35] [Server thread/INFO]: [BBEASTISHANK: Set own game mode to Creative Mode]
+[16:58:41] [Server thread/INFO]: BBEASTISHANK issued server command: /deop BBEASTISHANK
+[16:58:41] [Server thread/INFO]: [BBEASTISHANK: Made BBEASTISHANK no longer a server operator]
+[16:58:46] [Async Chat Thread - #7/INFO]: [Not Secure] <BBEASTISHANK> :(
+[16:59:13] [Server thread/INFO]: chewbacca lost connection: Disconnected
+[16:59:13] [Server thread/INFO]: chewbacca left the game
+[16:59:30] [Server thread/INFO]: Set BBEASTISHANK's game mode to Survival Mode
+[17:10:38] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[17:10:38] [Server thread/INFO]: BBEASTISHANK left the game
+[17:11:23] [User Authenticator #5/INFO]: UUID of player BBEASTISHANK is 6d90fc3b-7224-3212-8a46-a857858d8a22
+[17:11:24] [Server thread/INFO]: BBEASTISHANK joined the game
+[17:11:24] [Server thread/INFO]: BBEASTISHANK[/127.98.104.52:35623] logged in with entity id 21556 at ([limbo]0.0, 70.0, 0.0)
+[17:32:18] [Server thread/INFO]: BBEASTISHANK lost connection: Disconnected
+[17:32:18] [Server thread/INFO]: BBEASTISHANK left the game
